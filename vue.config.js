@@ -11,7 +11,7 @@ module.exports = {
       https: true,
       port: 8502
     },
-    externals: ["vue", /^@vue-mf\/.+/]
+    externals: ["vue", "vue-router", /^@vue-mf\/.+/]
   },
   filenameHashing: false
 };
