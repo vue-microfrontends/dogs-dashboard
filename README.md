@@ -1,4 +1,6 @@
-# vue-mf-dogs-dashboard
+# Vue Microfrontends dogs dashboard
+
+The microfrontend for the dogs dashboard.
 
 ## What is this?
 
