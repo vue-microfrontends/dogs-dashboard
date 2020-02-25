@@ -1,6 +1,6 @@
 # Vue Microfrontends dogs dashboard
 
-The microfrontend for the dogs dashboard.
+[![CircleCI](https://circleci.com/gh/vue-microfrontends/dogs-dashboard.svg?style=svg)](https://circleci.com/gh/vue-microfrontends/dogs-dashboard)
 
 ## What is this?
 
