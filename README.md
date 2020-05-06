@@ -46,7 +46,7 @@ Refresh the page. Click on the tan / beige rectangle:
 
 ![image](https://user-images.githubusercontent.com/5524384/75211359-e46b9280-5740-11ea-80bb-974846df414b.png)
 
-Set an [import map override](https://github.com/joeldenning/import-map-overrides/) to `//localhost:8502/js/app.js`.
+Set an [import map override](https://github.com/joeldenning/import-map-overrides/) to `https://localhost:8502/js/app.js`.
 
 ![image](https://user-images.githubusercontent.com/5524384/75211553-7e333f80-5741-11ea-97d6-d3d86ffd1826.png)
 
