@@ -43,5 +43,6 @@
       "parser": "@babel/eslint-parser"
     },
     "rules": {}
-  }
+  },
+  "packageManager": "pnpm@10.2.0"
 }
