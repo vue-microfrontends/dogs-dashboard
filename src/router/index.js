@@ -1,8 +1,5 @@
-import Vue from "vue";
-import VueRouter from "vue-router";
+import { createWebHistory, createRouter } from "vue-router";
 import DogDashboard from "../components/dog-dashboard";
-
-Vue.use(VueRouter);
 
 const routes = [
   {
@@ -12,10 +9,7 @@ const routes = [
   }
 ];
 
-const router = new VueRouter({
-  mode: "history",
-  base: process.env.BASE_URL,
-  routes
+export default createRouter({
+  history: createWebHistory(),
+  routes,
 });
-
-export default router;
